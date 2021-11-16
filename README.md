@@ -7,3 +7,4 @@ Skills demonstrated:
     Basic website construction and structuring
     Proficency with basic HTML syntax
     Proficency with hyperlinks and images
+    Usage of Git and Github
